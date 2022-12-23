@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: coding blog by @ezekielmiles
 ---
 
