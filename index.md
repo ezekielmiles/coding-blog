@@ -1,4 +1,4 @@
 ---
-title: i'm writing about learning to code. 
+title: coding blog by @ezekielmiles
 ---
 
