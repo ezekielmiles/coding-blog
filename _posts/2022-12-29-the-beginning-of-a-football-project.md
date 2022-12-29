@@ -39,7 +39,7 @@ As a person learning to code and build products, I take this as a learning exper
 
 ##  100% Free once it's up and running. Why? Win-win.
 
-I get to learn and apply my skills on something I love. (Football)
+I get to learn and apply my skills on a project that I am somewhat "passionate" about. (Passion is a scam btw...) 
 People get to use the product for free and make organising/playing football easier.
 I don't have to deal with payments/compete in the business game.
 
