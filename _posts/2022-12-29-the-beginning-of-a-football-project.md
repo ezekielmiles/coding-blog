@@ -3,8 +3,6 @@ title: "The Beginning Of A Football Project"
 date: 2022-12-29
 ---
 
-# The Beginning Of A Football Project 
-
 I'll be honest. Starting No Zero Days right smack before Christmas isn't a good idea. I ended up not really coding much for the past 3 days. But there's no point being hard on myself. Just keep going and break the zeros!
 
 ## Learning is best done by DOING, not READING/COPYING
@@ -49,7 +47,7 @@ I do this not for money, but for learning and further opportunities. That means 
 
 So I'm going to write every thought process and just try to *SHOW MY WORK* (credits: Austin Kleon). This coding blog was supposed to be for my learning of coding, but I'm sure it'll be more interesting to see me bring an idea from 0 to 1. 
 
-Cheers, 
+Cheers 
 @ezekielmiles
 
 29th December 2022, 6PM
